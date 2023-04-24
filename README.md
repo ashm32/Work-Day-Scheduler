@@ -20,5 +20,6 @@ The app:
 Deployed Page URL: https://ashm32.github.io/Work-Day-Scheduler/ 
 Screenshot of deployed application:
 <img width="1249" alt="Screenshot 2023-04-24 at 17 48 34" src="https://user-images.githubusercontent.com/127209262/234063107-c01921c7-6be5-4649-928a-050218114699.png">
-https://user-images.githubusercontent.com/127209262/234063650-78b9edde-e9cc-4855-991d-ce6138bbe1d2.mov
+Video of deployed application:
+https://user-images.githubusercontent.com/127209262/234066008-440cf180-c96b-47ae-95db-386113aaf13c.mov
 
